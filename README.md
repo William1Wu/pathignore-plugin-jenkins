@@ -24,7 +24,7 @@
 - Method1
     - Start a command window and run the follwing command: 
         - build hpi: `mvn verify`
-        - run Jenkins server with hpi: `hpi:run`
+        - run Jenkins server with hpi file: `hpi:run`
 - Method2
     - Open Pathignore-plugin project by IntelliJ IDEA
     - Click Button named "Build Project" to build hpi
