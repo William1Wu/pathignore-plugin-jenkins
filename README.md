@@ -2,7 +2,9 @@
 
 ## Introduction
 
-Java-version Pathignore plugin implemented by William_Wu for Jenkins. 
+- A plugin to skip or execute builds based on a path filter on modified files. 
+- Java version Pathignore plugin implemented by William_Wu for Jenkins.
+- Ruby version: https://github.com/jenkinsci/pathignore-plugin
 
 ## Getting started
 
