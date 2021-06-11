@@ -1,0 +1,2 @@
+_extends: .github
+tag-template: pathignore-$NEXT_MINOR_VERSION

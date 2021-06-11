@@ -1,0 +1,9 @@
+<?jelly escape-by-default='true'?>
+<j:jelly xmlns:j="jelly:core" xmlns:st="jelly:stapler" xmlns:d="jelly:define" xmlns:l="/lib/layout" xmlns:t="/lib/hudson" xmlns:f="/lib/form">
+	<f:entry title="Invert ignore?" field="invertIgnore" description="If you enable this, we will only build if there is a change to the ignored paths.">
+		<f:checkbox/>
+	</f:entry>
+	<f:entry title="Ignored paths" field="ignoredPaths" description="Comma-separated, extended globs. See Java PathMatcher for details.">
+        <f:textbox/>
+    </f:entry>
+</j:jelly>
