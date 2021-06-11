@@ -1,0 +1,1 @@
+# pathignore-plugin-jenkins
