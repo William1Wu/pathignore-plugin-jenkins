@@ -1,4 +1,4 @@
-# pathignore
+# pathignore-plugin-jenkins
 
 ## Introduction
 
@@ -29,6 +29,5 @@ Java-version Pathignore plugin implemented by William_Wu for Jenkins.
     - Click Button named "Debug" to run Jenkins server with hpi
 
 ## LICENSE
-
 Licensed under MIT, see [LICENSE](LICENSE.md)
 
